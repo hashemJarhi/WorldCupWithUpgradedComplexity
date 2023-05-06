@@ -33,3 +33,5 @@ function complexties:
 12)get_partial_spirit(int playerId) - O(log*N)
 
 13)buy_team(int buyerId, int boughtId) - O(logK + log*N)
+
+provided main code for the input.
